@@ -1,0 +1,260 @@
+ul li  {
+    list-style-type: none;
+}
+
+
+li {
+    display: inline;
+}
+   
+header {
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-style: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+    padding: 10px;
+
+}
+
+.banner {
+    background-image: url('./Group\ 31.jpg');
+    width: 100%;
+    height: 800px;
+    font-size: large;
+    font-style: monospace;
+    color: white;
+    text-align: center;    
+}
+
+.header {
+width: 410px;
+height: 448px;
+left: 871px;
+top: 153px;
+}
+
+.image {
+text-align: center;
+width: 100%;
+font-size: 30px;
+/* display: grid; */
+grid-template-columns: (200px, 200px, 200px);
+grid-template-rows: auto;
+grid-gap: 20px;
+}
+
+.para {
+    text-align: center;
+    color: grey;
+
+}
+
+
+
+.row {
+    text-align: center;
+}
+
+.containner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+.image {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: auto;
+}
+
+
+
+
+
+
+
+/* .column {
+    flex: 50%;
+    padding: 0 4px;
+
+} */
+
+
+
+
+.Imagess {
+/* position: absolute; */
+width: 850px;
+height: 528px;
+left: 0px;
+top: 1688px;
+background: #E4F0FF;
+
+
+}
+
+/* .numberOne {
+    text-align:  center;
+    width: 850px;
+    height:728px;
+    writing-mode: horizontal-tb;
+    font-style: monospace;
+    justify-content: space-between;
+    background: #E4F0FF; 
+    padding: 10px;
+    font-size: 30px;
+} */
+
+.div {
+ display: flex;
+ justify-content: space-between;
+}
+
+.picture {
+background-color: darkslategrey;
+justify-content: space-between;
+left: 784px;
+top: 1777px;
+top:50%;
+z-index: -1;
+color: #E4F0FF;
+width: 675px;
+height: 349px;
+left: 784px;
+top: 1777px;
+}
+
+.column { 
+width: 850px;
+height: 528px;
+left: 0px;
+top: 1688px;
+background: #E4F0FF;
+text-align: center;
+}
+
+.border {
+width: 675px;
+height: 349px;
+left: 784px;
+top: 1777px;
+background-color:  #E4F0FF;
+}
+
+.road_name {
+   
+    width: 1000px;
+    height: 528px;
+    background: #E4F0FF; 
+    text-align: center;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+
+.text {
+    text-align: left;   
+}
+
+
+.eccom {
+    text-align: space-between;
+    align-items: center;
+}
+
+
+.even {
+    text-align: left;
+    display: flex;
+    padding: 10px;
+    justify-content: flex-start;
+    /* justify-content: space-between; */
+    /* justify-content: space-between; */
+}
+
+
+.title {
+position: absolute;
+background-color: grey;
+color: white;
+width: 785px;
+height: 349px;
+left: 784px;
+top: 1777px;
+bottom: 0;
+}
+
+
+
+
+
+
+
+.ecom {
+    padding: 10px;
+}
+
+
+.sectionOne  {
+    text-align: center;
+    
+}
+
+.grey {
+    color: grey;
+}
+
+.imageOnes {
+    height: 400px;
+    width: 50%;
+}
+
+.containerOne {
+text-align: center;
+width: 100%;
+font-size: 30px;
+grid-template-columns: (200px, 200px, 200px);
+grid-template-rows: auto;
+grid-gap: 20px;
+}
+
+
+.picture {
+    width: 50%;
+}
+
+
+.BoxZero {
+    width: 1000px;
+    height: 600px;
+   
+    color: #E4F0FF;
+}
+
+
+.Box1 {
+    text-align: center;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: cadetblue;
+
+}
+
+
+
+
+
+
+
+
